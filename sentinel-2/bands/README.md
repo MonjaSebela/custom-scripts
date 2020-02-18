@@ -152,7 +152,7 @@ Use: For cirrus cloud detection.
 
 Custom script: ** return [B10];
 
-![B09](fig/fig10.jpg)
+![B10](fig/fig10.jpg)
 
 ## Band 11 
 
