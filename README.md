@@ -9,6 +9,7 @@ Scripts are organised by sensors supported on Sentinel Hub:
   - [Sentinel-2](#sentinel-2)
   - [Sentinel-3](#sentinel-3)
   - [Sentinel-5P](#sentinel-5P)
+  - [Landsat 5 and 7](#landsat-57)
   - [Landsat-8](#landsat-8)
   - [MODIS](#modis)
 
