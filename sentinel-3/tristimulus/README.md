@@ -19,7 +19,7 @@ The derivation of the true colour of natural waters is based on the calculation 
 
 Tristimulus water colors at west coast of Myanmat. Acquired on 27.1.2020, processed by Sentinel Hub. 
 
-![Tristimulus of Myanmar](fig/fig1.png)]
+![Tristimulus of Myanmar](fig/fig1.png)
 
 
 
