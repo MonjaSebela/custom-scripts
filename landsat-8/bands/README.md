@@ -11,7 +11,7 @@
 
 Use: senses deep blues and violets. Blue light is hard to collect from space because it’s scattered easily by tiny bits of dust and water in the air, and even by air molecules themselves. This is one reason why very distant things (like mountains on the horizon) appear blueish, and why the sky is blue. Just as we see a lot of hazy blue when we look up at space on a sunny day, Landsat 8 sees the sky below it when it looks down at us through the same air. That part of the spectrum is hard to collect with enough sensitivity to be useful, and Band 1 is the only instrument of its kind producing open data at this resolution – one of many things that make this satellite special. It’s also called the coastal/aerosol band, after its two main uses: imaging shallow water, and tracking fine particles like dust and smoke (source).
 
-Custom script: ** return [B01];**
+Custom script: **return [B01];**
 
 ![B1](fig/fig1.jpg)
 
